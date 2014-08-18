@@ -36,3 +36,5 @@ Input and output
 The web service solution should provide responses to specified queries on the twitter dataset. Users can submit queries about tweets based on userids, tweet id, time or geographical location. The client has collected millions of tweets through Twitter’s streaming API and have collected them as JSON formatted files, which is stored on S3.
 
 The input is in a JSON format. Each line is a JSON object representing a tweet. Twitter’s documentation has a good description of the data format for tweets and related entities in this format. https://dev.twitter.com/docs/platformobjects/tweets.
+
+@Author: Qinghao Hou, Zhangning Hu, Shengyi Zhang

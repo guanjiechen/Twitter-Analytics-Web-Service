@@ -1,0 +1,1 @@
+CREATE INDEX idx_time_place ON timeplace_q5 (time, place);

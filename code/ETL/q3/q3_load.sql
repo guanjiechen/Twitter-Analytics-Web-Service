@@ -1,0 +1,4 @@
+LOAD DATA LOCAL INFILE '~/twitter/q3data'
+INTO TABLE retweets_q3 
+FIELDS TERMINATED BY '\t'
+LINES TERMINATED BY '\n';
